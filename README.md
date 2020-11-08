@@ -1,2 +1,2 @@
-# authentication-service
-Authentication service demo
+# user-service
+user service demo
